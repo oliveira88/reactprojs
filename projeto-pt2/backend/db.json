@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Jão Paulo1",
+      "email": "jao@ufes.br"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Clara 456",
+      "email": "mari@ufes.br"
+    },
+    {
+      "id": 3,
+      "nome": "beunome",
+      "email": "Beu@nome"
+    },
+    {
+      "nome": "123",
+      "email": "123123",
+      "id": 4
+    },
+    {
+      "nome": "55",
+      "email": "123123",
+      "id": 5
+    }
+  ]
+}
